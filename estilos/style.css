@@ -30,9 +30,9 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 312px;
-    width: 155px; 
+    height: 470px;         
+    width: 233px; 
     
 
-    background: url(../pacote-d013/imagens/frame-iphone-m.png) no-repeat;
+    background: url(../pacote-d013/imagens/frame-iphone-g.png) no-repeat;
 }
